@@ -1,16 +1,82 @@
-### Olá!!! Eu sou o MaTSuBa 👋
+# 👋 Olá! Sou MaTSuBa
+
+**Desenvolvedor Full Stack** | PHP • MySQL • JavaScript • Bootstrap | São Paulo, Brasil
 
 ---
 
-### 🚀 Sobre Mim
+## 🚀 Sobre Mim
 
-Sou um desenvolvedor focado em criar soluções práticas e eficientes para problemas do mundo real. Tenho me dedicado a projetos **Full Stack** desafiadores, com ênfase em sistemas de gestão e inovação.
+Sou um desenvolvedor apaixonado por **criar soluções web escaláveis e eficientes** que resolvem problemas reais. Especializado em **arquitetura de sistemas** e **gestão de dados**, entrego aplicações completas — da modelagem de banco de dados ao design responsivo da interface.
 
-🔭 **Projetos Recentes & Focos Atuais:**
-* 💰 **Finanças:** Desenvolvimento de **Painéis de Gestão Financeira** completos com controle de acesso e ferramentas administrativas profissionais.
-* 💪 **Fitness:** Criação de sistemas para **Personal Trainers**, gerenciando alunos e planos de treino.
-* 👁️ **Inovação:** Implementação de **Reconhecimento Facial** (face-api.js) para controle de acesso web e integrações de listas com **WhatsApp**.
-* 🎓 **ERP:** Desenvolvimento de fórmulas e customizações no **TOTVS RM Educacional**.
+Meu foco é em **código limpo, otimização de performance, segurança e experiência do usuário**, sempre buscando as melhores práticas e tecnologias adequadas para cada projeto.
+
+---
+
+## 💼 Experiência Técnica
+
+**Backend:** PHP • MySQL • API REST • Autenticação e Segurança  
+**Frontend:** JavaScript • jQuery • Bootstrap • HTML5 • CSS3  
+**Especialidades:** Sistemas de Gestão • Integração de APIs • Otimização de Banco de Dados • Validação de Formulários • AJAX  
+
+---
+
+## 🔭 Projetos em Destaque
+
+### ⚽ **JPFC 2026** — Sistema de Gestão de Campeonatos Esportivos
+Plataforma completa para **gerenciamento de equipes, partidas, estatísticas e rankings dinâmicos**. Inclui painel administrativo, relatórios em tempo real e controle detalhado de competições.
+
+### 🎁 **Amigo Secreto** — Plataforma de Sorteios Inteligentes
+Aplicativo web moderno para **sorteios automáticos com algoritmo de pareamento**, notificações por e-mail personalizadas e rastreamento de trocas de presentes.
+
+### 🧾 **Sócio Torcedor** — Sistema de Gestão de Associados
+Solução completa de **CRM para gestão de associados e planos de fidelidade**, com área administrativa, emissão de carteirinhas e controle de acesso.
+
+### 🎓 **VisitasRV** — Controle de Visitas Escolares
+Sistema integrado para **rastreamento de visitas, geração de relatórios automáticos** e **autenticação por reconhecimento facial** (face-api.js).
+
+---
+
+## 🔭 Projetos Recentes & Focos Atuais
+
+### 💰 **Painéis de Gestão Financeira**
+Desenvolvimento de **dashboards financeiros completos** com controle granular de acessos, ferramentas administrativas profissionais, análises em tempo real e projeções financeiras. Inclui autenticação segura, validação de dados e permissionamento por usuário/departamento.
+
+### 💪 **Sistemas para Personal Trainers**
+Criação de plataformas especializadas para **gerenciamento de alunos, planejamento de treinos personalizados, acompanhamento de progresso e métricas de fitness**. Sistema intuitivo para controle de agendamentos e histórico de atendimentos.
+
+### 👁️ **Reconhecimento Facial & Integrações WhatsApp**
+Implementação de **autenticação por reconhecimento facial** usando face-api.js para controle de acesso web avançado. Integração com **listas e mensagens WhatsApp** para automação de comunicação e notificações inteligentes.
+
+### 🎓 **Customizações TOTVS RM Educacional**
+Desenvolvimento de **fórmulas avançadas e customizações** no módulo educacional, otimizando rotinas administrativas, acadêmicas e de gestão. Integração com sistemas existentes e automação de processos.
+
+---
+
+## 🌟 Diferenciais
+
+✅ **Full Stack completo** — Projeto do zero até produção  
+✅ **Banco de dados otimizado** — Queries eficientes e indexação inteligente  
+✅ **Interface responsiva** — Usabilidade em desktop, tablet e mobile  
+✅ **Integração de APIs** — WhatsApp, e-mail, reconhecimento facial e sistemas terceiros  
+✅ **Segurança** — Validação de dados, autenticação segura e controle de acesso  
+✅ **Performance** — Otimização AJAX, lazy loading e cache inteligente  
+
+---
+
+## 🎯 O que me move
+
+Transformar ideias em **produtos digitais de impacto**, resolver desafios técnicos complexos e criar **experiências que as pessoas amam usar**. Sou um aprendiz constante, sempre explorando novas tecnologias e melhores práticas.
+
+---
+
+## 📫 Conecte-se comigo
+
+💻 Explore meus projetos aqui no GitHub  
+📧 Entre em contato para discussões sobre desenvolvimento web  
+
+---
+
+**"Código limpo, soluções eficientes, resultados que importam."**
 
 ---
 
